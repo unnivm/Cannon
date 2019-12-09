@@ -17,7 +17,12 @@ Development environment Setup
 
 You can clone this repository and import the project into the your favorite IDE. 
 
+This application was ported from Java to Kotlin with 8 - 10 hours.
 
+
+<h3>
+  How the game looks like
+</h3>
 
 
 ![Game Image](https://user-images.githubusercontent.com/968987/70440214-b2d71980-1ab7-11ea-9b28-52139d4b17c2.png)
