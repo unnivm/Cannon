@@ -7,7 +7,10 @@ This is a 2D game in which the player can shoot some bullets over the walls and 
 
 You will get the information about the version of FXGL framework from the project's .pom file.
 
+<blockquote>
 <fxgl.version>11.5</fxgl.version>
+</blockquote>
+
 
 
 
