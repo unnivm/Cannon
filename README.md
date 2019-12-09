@@ -11,10 +11,11 @@ You will get the information about the version of FXGL framework from the projec
 <fxgl.version>11.5</fxgl.version>
 </blockquote>
 
-<h1>
+<h3>
 Development environment Setup
-</h1>
+</h3>
 
+You can clone this repository and import the project into the your favorite IDE. 
 
 
 
